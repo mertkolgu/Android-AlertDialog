@@ -1,2 +1,1 @@
-# android-alert-dialog
-Android Alert Dialog
+# Android Alert Dialog
